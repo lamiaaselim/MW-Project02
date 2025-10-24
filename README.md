@@ -1,4 +1,9 @@
-# Title Explain Promise in JS
+# Pull Request (PR)
+
+    - Base Bache 
+    - Target Branch
+
+## Title Explain Promise in JS
 
 ## Sub Title (XMLHTTPREQUEST)
 
